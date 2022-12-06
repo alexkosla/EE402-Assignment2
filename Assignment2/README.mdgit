@@ -1,0 +1,1 @@
+"# EE402-Assignment2"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/alexkosla/EE402-Assignment2.gitgit push -u origin main
